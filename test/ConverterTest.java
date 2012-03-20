@@ -10,6 +10,8 @@ import org.junit.Test;
  */
 public class ConverterTest {
 
+    //Comment
+
     @Test
     public void shouldConvertBaseTwo() {
         Converter newConverter = new Converter();
